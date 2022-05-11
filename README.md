@@ -1,9 +1,10 @@
 # PyScript
 
-    PyScript is a Python script that can be run from the command line.
-    It is a simple way to run Python scripts from the command line.
+Pyscript is Python in WebAssembly.
 
 Homepage: https://pyscript.net/
+
+This project contains an HTML file and a Python file. That's it.
 
 Start a web server (f.ex. python) with:
 
