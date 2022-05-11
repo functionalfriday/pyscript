@@ -12,3 +12,7 @@ python -m http.server 8000
 ```
 
 And visit it at: http://localhost:8000/demo.html
+
+It should look similar to this:
+
+![screenshot](screenshot.png)
